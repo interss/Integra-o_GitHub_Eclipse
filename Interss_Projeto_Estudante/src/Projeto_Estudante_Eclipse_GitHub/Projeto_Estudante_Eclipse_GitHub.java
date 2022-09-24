@@ -16,7 +16,7 @@ public class Projeto_Estudante_Eclipse_GitHub {
         System.out.println("Tudo indica que a integração foi feita com sucesso! Vejamos agora se ao enviar o COMMIT aparecerá no GitHub");
         System.out.println("Fazendo teste de envio de COMMIT por outro caminho no Eclipse");
         System.out.println("Tudo indica que vai dar certo! Brother, isso é muito legal demaiiiis kkkk");
-        
+        System.out.println("Teste dia 24/09 para relembrar como a informação do Eclipse vai para o GitHub");
 	}
 
 }
